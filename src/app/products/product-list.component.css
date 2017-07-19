@@ -1,0 +1,30 @@
+thead{
+  color: #337ab7;
+}
+
+.panel-heading{
+  background-color: #337ab7;
+  font-size: 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color: #f9f9f9;
+  padding: 10px;
+}
+
+.btn{
+  color: #f9f9f9;
+  background-color: #337ab7;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+td{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  right: 100px;
+  border-top: 1px solid lightgray;
+}
+
+th{
+  padding-right: 100px;
+}
